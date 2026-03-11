@@ -366,3 +366,16 @@ color:#777;
 margin-top:5px;
 }
 
+.site-intro{
+max-width:900px;
+margin:40px auto;
+padding:20px;
+background:#f8f8f8;
+border-radius:6px;
+line-height:1.7;
+}
+
+.site-intro h2{
+margin-bottom:10px;
+}
+
