@@ -349,3 +349,20 @@ color:#555;
     }
 
 }
+
+.site-author{
+max-width:900px;
+margin:20px auto;
+padding:15px;
+background:#f7f7f7;
+border-left:4px solid #0073e6;
+font-size:14px;
+line-height:1.6;
+}
+
+.author-meta{
+font-size:13px;
+color:#777;
+margin-top:5px;
+}
+
