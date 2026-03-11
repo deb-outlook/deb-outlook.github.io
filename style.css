@@ -369,13 +369,19 @@ margin-top:5px;
 .site-intro{
 max-width:900px;
 margin:40px auto;
-padding:20px;
-background:#f8f8f8;
-border-radius:6px;
+padding:25px;
+background:#f4f6f8;
+border-radius:8px;
+box-shadow:0 2px 8px rgba(0,0,0,0.08);
 line-height:1.7;
 }
 
 .site-intro h2{
-margin-bottom:10px;
+margin-bottom:12px;
+color:#222;
 }
 
+.site-intro p{
+color:#444;
+font-size:15px;
+}
