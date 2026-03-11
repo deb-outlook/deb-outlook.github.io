@@ -369,19 +369,22 @@ margin-top:5px;
 .site-intro{
 max-width:900px;
 margin:40px auto;
-padding:25px;
-background:#f4f6f8;
-border-radius:8px;
-box-shadow:0 2px 8px rgba(0,0,0,0.08);
+padding:30px;
+background:#ffffff;
+border-radius:10px;
+box-shadow:0 4px 10px rgba(0,0,0,0.06);
 line-height:1.7;
+border:1px solid #e5e7eb;
 }
 
 .site-intro h2{
-margin-bottom:12px;
-color:#222;
+margin-bottom:10px;
+font-size:22px;
+color:#1f2937;
 }
 
 .site-intro p{
-color:#444;
+color:#4b5563;
 font-size:15px;
+margin-bottom:10px;
 }
