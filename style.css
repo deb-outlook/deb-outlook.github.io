@@ -360,6 +360,12 @@ font-size:14px;
 line-height:1.6;
 }
 
+.author-meta{
+    font-size:13px;
+    color:#5b5757;
+    margin-top:5px;
+}
+
 .site-intro{
 max-width:900px;
 margin:40px auto;
@@ -392,6 +398,7 @@ color:#555;
 color:#0077cc;
 text-decoration:none;
 }
+
 
 
 
